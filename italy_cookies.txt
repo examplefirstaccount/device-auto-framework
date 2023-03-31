@@ -1,0 +1,3339 @@
+[
+    {
+        "domain": ".booking.com",
+        "expiry": 1757939623,
+        "httpOnly": true,
+        "name": "bkng",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "11UmFuZG9tSVYkc2RlIyh9Yaa29%2F3xUOLbca8KLfxLPefACKS%2B53Vf3EkVDqlKTyWwfFOq17wc70lbTDI9urUyenbZt9Z570j1mMTR83RIRpz6IAeqwe%2F%2FVZpmNn67v5N2lq19nJCnQ%2FHBfOr1ab0h%2BVkp8wx5Hf92J7tO9sbMtayAhW95mDnFA3KQNGFmeGLeypFUml6dI7g%3D"
+    },
+    {
+        "domain": ".booking.com",
+        "httpOnly": false,
+        "name": "lastSeen",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "0"
+    },
+    {
+        "domain": ".www.booking.com",
+        "expiry": 1738931621,
+        "httpOnly": false,
+        "name": "OptanonConsent",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "implicitConsentCountry=GDPR&implicitConsentDate=1723379617946&isGpcEnabled=0&datestamp=Sun+Aug+11+2024+15%3A33%3A41+GMT%2B0300+(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D0%BE%D0%B5+%D0%B2%D1%80%D0%B5%D0%BC%D1%8F)&version=202403.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bb8d6058-c184-4d78-ba2f-43295dc4d61a&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.booking.com%2Findex.ru.html%3Flabel%3Dgen173nr-1BCAEoggI46AdIM1gEaMIBiAEBmAEhuAEXyAEM2AEB6AEBiAIBqAIDuAKY3-K1BsACAdICJDM5ZjYzM2I2LTUwYjctNDUxNy04ZDkxLTAwZWI0NDNlZmMxZtgCBeACAQ%26sid%3D9c6171e0c5a989271286333ee05dc5c6%26keep_landing%3D1%26sb_price_type%3Dtotal%26&groups=C0001%3A1%2CC0002%3A0%2CC0004%3A0"
+    },
+    {
+        "domain": ".booking.com",
+        "expiry": 1723466021,
+        "httpOnly": true,
+        "name": "BJS",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "-"
+    },
+    {
+        "domain": ".booking.com",
+        "expiry": 1757939617,
+        "httpOnly": true,
+        "name": "bkng_sso_ses",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "e30"
+    },
+    {
+        "domain": ".booking.com",
+        "expiry": 1757939607,
+        "httpOnly": true,
+        "name": "px_init",
+        "path": "/",
+        "sameSite": "Strict",
+        "secure": true,
+        "value": "0"
+    },
+    {
+        "domain": ".booking.com",
+        "expiry": 1738931607,
+        "httpOnly": true,
+        "name": "pcm_personalization_disabled",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "0"
+    },
+    {
+        "domain": ".booking.com",
+        "expiry": 1757939617,
+        "httpOnly": true,
+        "name": "bkng_sso_session",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "e30"
+    },
+    {
+        "domain": ".booking.com",
+        "expiry": 1754915605,
+        "httpOnly": true,
+        "name": "pcm_consent",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "analytical%3Dfalse%26countryCode%3DRU%26consentId%3De7a49681-1edd-48a7-b684-45f0ca165f67%26consentedAt%3D2024-08-11T12%3A33%3A28.939Z%26expiresAt%3D2025-02-07T12%3A33%3A28.939Z%26implicit%3Dtrue%26marketing%3Dfalse%26regionCode%3DTA%26regulation%3Dgdpr%26legacyRegulation%3Dgdpr"
+    },
+    {
+        "domain": ".booking.com",
+        "expiry": 1754915617,
+        "httpOnly": false,
+        "name": "cors_js",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1"
+    },
+    {
+        "domain": ".booking.com",
+        "expiry": 1757939606,
+        "httpOnly": true,
+        "name": "bkng_sso_auth",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "CAIQsOnuTRpmxLGyXWl75dpJH+DGDgOy0ZU0qYz7WXhyLu8B5kBoPX8p27r7qE79j5Tyd5Aq8RG9MvUI9EbQBK59nC3p28uJ7vHtoiQNe8WiEVTIy6awNJliDUr3Uef76ATVQ1KJRWqh8QQZ79Yu"
+    },
+    {
+        "domain": ".dzen.ru",
+        "expiry": 1723386831,
+        "httpOnly": false,
+        "name": "is_online_cached",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "false"
+    },
+    {
+        "domain": "dzen.ru",
+        "expiry": 1723984431,
+        "httpOnly": false,
+        "name": "domain_sid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "IvJTvi5uGmaRzo628chmt%3A1723379631238"
+    },
+    {
+        "domain": "dzen.ru",
+        "expiry": 1723984430,
+        "httpOnly": false,
+        "name": "zen_ms_socdem_pixels",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "2480393"
+    },
+    {
+        "domain": ".dzen.ru",
+        "expiry": 1723466030,
+        "httpOnly": false,
+        "name": "front_fpid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "IvJTvi5uGmaRzo628chmt"
+    },
+    {
+        "domain": ".dzen.ru",
+        "expiry": 1757939630,
+        "httpOnly": false,
+        "name": "zen_vk_gid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "5534"
+    },
+    {
+        "domain": ".dzen.ru",
+        "expiry": 1723466030,
+        "httpOnly": false,
+        "name": "has_stable_city",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "true"
+    },
+    {
+        "domain": ".dzen.ru",
+        "expiry": 1754483630,
+        "httpOnly": false,
+        "name": "stable_city",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "0"
+    },
+    {
+        "domain": "dzen.ru",
+        "expiry": 1723466032,
+        "httpOnly": false,
+        "name": "tmr_detect",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "0%7C1723379632931"
+    },
+    {
+        "domain": ".dzen.ru",
+        "expiry": 1757939628,
+        "httpOnly": false,
+        "name": "vid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "7bdbd098b74171e3"
+    },
+    {
+        "domain": ".dzen.ru",
+        "expiry": 1752150828,
+        "httpOnly": false,
+        "name": "tmr_lvid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "f05ec587646acc59b4f667b20b4d1de4"
+    },
+    {
+        "domain": ".dzen.ru",
+        "expiry": 1723466025,
+        "httpOnly": true,
+        "name": "sessar",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "1.1192.CiBUK0BnUg8LXV3lWRatCSRYNMkwNfO8V3NB-eoF5tAfEw.pGY9nqIwu5n9O-N3SwZyTLB_6iOObdxa084nqlGdOL4"
+    },
+    {
+        "domain": ".dzen.ru",
+        "expiry": 1752150828,
+        "httpOnly": false,
+        "name": "tmr_lvidTS",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1723379628692"
+    },
+    {
+        "domain": ".dzen.ru",
+        "expiry": 1723466025,
+        "httpOnly": true,
+        "name": "zen_vk_sso_checked",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "1"
+    },
+    {
+        "domain": ".dzen.ru",
+        "expiry": 1723451628,
+        "httpOnly": false,
+        "name": "_ym_isad",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "2"
+    },
+    {
+        "domain": ".dzen.ru",
+        "expiry": 1723466030,
+        "httpOnly": false,
+        "name": "is_online_stat",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "false"
+    },
+    {
+        "domain": ".dzen.ru",
+        "expiry": 1754915627,
+        "httpOnly": false,
+        "name": "_ym_uid",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "1723379627527934594"
+    },
+    {
+        "domain": ".dzen.ru",
+        "expiry": 1723422825,
+        "httpOnly": true,
+        "name": "zen_sso_checked",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "1"
+    },
+    {
+        "domain": ".dzen.ru",
+        "expiry": 1757939627,
+        "httpOnly": false,
+        "name": "_yasc",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "RmQT+6oEGZU44sq+SK+DCWm3jeeKaljeMlehBNZCvMoVk2CfFuJnEp94AvfVL+Ob1JE="
+    },
+    {
+        "domain": "dzen.ru",
+        "expiry": 1723466030,
+        "httpOnly": false,
+        "name": "one_day_socdem",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "+"
+    },
+    {
+        "domain": ".dzen.ru",
+        "httpOnly": false,
+        "name": "ys",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "c_chck.4121538325"
+    },
+    {
+        "domain": "dzen.ru",
+        "httpOnly": false,
+        "name": "Zen-User-Data",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "{%22zen-theme%22:%22light%22}"
+    },
+    {
+        "domain": ".dzen.ru",
+        "expiry": 1754915627,
+        "httpOnly": false,
+        "name": "_ym_d",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "1723379627"
+    },
+    {
+        "domain": ".dzen.ru",
+        "expiry": 1723466025,
+        "httpOnly": true,
+        "name": "Session_id",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "noauth:1723379626"
+    },
+    {
+        "domain": ".dzen.ru",
+        "expiry": 1757939625,
+        "httpOnly": false,
+        "name": "mda2_beacon",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "1723379626906"
+    },
+    {
+        "domain": ".dzen.ru",
+        "expiry": 1723385625,
+        "httpOnly": false,
+        "name": "sso_status",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "sso.passport.yandex.ru:synchronized"
+    },
+    {
+        "domain": ".dzen.ru",
+        "expiry": 1757939630,
+        "httpOnly": false,
+        "name": "zen_gid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "43"
+    },
+    {
+        "domain": ".dzen.ru",
+        "expiry": 1757939625,
+        "httpOnly": false,
+        "name": "yandexuid",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "7747616151723379626"
+    },
+    {
+        "domain": ".dzen.ru",
+        "expiry": 1754915625,
+        "httpOnly": false,
+        "name": "yandex_login",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": ""
+    },
+    {
+        "domain": ".dzen.ru",
+        "expiry": 1723466030,
+        "httpOnly": false,
+        "name": "is_auth_through_phone",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "true"
+    },
+    {
+        "domain": ".dzen.ru",
+        "expiry": 1738931630,
+        "httpOnly": false,
+        "name": "rec-tech",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "true"
+    },
+    {
+        "domain": ".dzen.ru",
+        "expiry": 1757939624,
+        "httpOnly": false,
+        "name": "zencookie",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "302510241723379626"
+    },
+    {
+        "domain": ".bing.com",
+        "httpOnly": false,
+        "name": "ipv6",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "hit=1723383240557"
+    },
+    {
+        "domain": ".bing.com",
+        "expiry": 1757939641,
+        "httpOnly": false,
+        "name": "SRCHHPGUSR",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "SRCHLANG=ru&IG=40E2A4BF8E854B3CB1A21E0F98FBD411&DM=0&BRW=S&BRH=S&CW=1036&CH=699&SCW=1036&SCH=699&DPR=1.3&UTC=180"
+    },
+    {
+        "domain": "www.bing.com",
+        "expiry": 1757075641,
+        "httpOnly": true,
+        "name": "MUIDB",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "3FC094C919C067230CEF801118E86614"
+    },
+    {
+        "domain": ".bing.com",
+        "expiry": 1757939640,
+        "httpOnly": false,
+        "name": "_UR",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "QS=0&TQS=0"
+    },
+    {
+        "domain": ".bing.com",
+        "expiry": 1723386838,
+        "httpOnly": false,
+        "name": "ak_bmsc",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "6B0A5BE6856FFF7DCDE33BB59120D0A3~000000000000000000000000000000~YAAQ1NH1V0uVRzqRAQAAX2puQRjqGNw4HS4ikR2V8G2FgHQJ3hZAI2fKa1vPZ+fAV0z3qnO61NhrNfaSo8aLZKeJg0yctD0VTAa5m2XtbmyON2cbEr7fv5xTmaclu7+LtWCwh2aZwhWmbFSshJKO2qUBIrLgj1TNDApkl2bZYW6xD12y7XDNjYPuLlxg++dQH06oDJO9vOoENd93KTDKJYeM8uM823uIG6TiQNCavecXlvVKADuhzne27Lfs8BT9zkrt1a+jz0p4gCs1Q33YAcFcAFGA6Jl7SH/MhTeW4Qk+P4Bqu2Vq3ZoUhdV4k68b6hZufD/eDW3E00iY3O2WZGE8u6MMbE2R8LCz3tgI0VDPHcgCddZbYPE+kBTDux0rgGX4UbZBeqI="
+    },
+    {
+        "domain": ".bing.com",
+        "expiry": 1757939640,
+        "httpOnly": false,
+        "name": "SRCHUSR",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "DOB=20240811&T=1723379640000"
+    },
+    {
+        "domain": ".bing.com",
+        "expiry": 1757939640,
+        "httpOnly": false,
+        "name": "_HPVN",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "CS=eyJQbiI6eyJDbiI6MSwiU3QiOjAsIlFzIjowLCJQcm9kIjoiUCJ9LCJTYyI6eyJDbiI6MSwiU3QiOjAsIlFzIjowLCJQcm9kIjoiSCJ9LCJReiI6eyJDbiI6MSwiU3QiOjAsIlFzIjowLCJQcm9kIjoiVCJ9LCJBcCI6dHJ1ZSwiTXV0ZSI6dHJ1ZSwiTGFkIjoiMjAyNC0wOC0xMVQwMDowMDowMFoiLCJJb3RkIjowLCJHd2IiOjAsIlRucyI6MCwiRGZ0IjpudWxsLCJNdnMiOjAsIkZsdCI6MCwiSW1wIjoyLCJUb2JuIjowfQ=="
+    },
+    {
+        "domain": ".bing.com",
+        "httpOnly": false,
+        "name": "_SS",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "SID=26B1AC5E5E7C6D4209EBB8865F546C4B"
+    },
+    {
+        "domain": ".bing.com",
+        "expiry": 1757939638,
+        "httpOnly": false,
+        "name": "SRCHD",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "AF=NOFORM"
+    },
+    {
+        "domain": ".bing.com",
+        "expiry": 1757075639,
+        "httpOnly": true,
+        "name": "_EDGE_V",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1"
+    },
+    {
+        "domain": ".bing.com",
+        "expiry": 1757939638,
+        "httpOnly": false,
+        "name": "SRCHUID",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "V=2&GUID=54F0B8A9269A4655AA9DB44C3C1236A8&dmnchg=1"
+    },
+    {
+        "domain": ".bing.com",
+        "httpOnly": true,
+        "name": "_EDGE_S",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "F=1&SID=26B1AC5E5E7C6D4209EBB8865F546C4B"
+    },
+    {
+        "domain": ".bing.com",
+        "expiry": 1757075639,
+        "httpOnly": false,
+        "name": "MUID",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "3FC094C919C067230CEF801118E86614"
+    },
+    {
+        "domain": ".aruba.it",
+        "expiry": 1754915647,
+        "httpOnly": true,
+        "name": "cf_clearance",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "cokmyfZ7UsqUjCFYp_rlp8OF.iilYoLlvy_ZsEfXVHY-1723379649-1.0.1.1-zeHi2Fo4HjagEB9K7D3ZPNBbxuEt3booy7QRIR9rBJstE4hSwoghfnR2xQ0zIX9p6Ip51obAdbV.ee.UGCHdBA"
+    },
+    {
+        "domain": "www.aruba.it",
+        "httpOnly": true,
+        "name": "CMSCsrfCookie",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "AgIdj355/DeTjOdqXc7lp8xOR3FW/XYFkMZz8Aki"
+    },
+    {
+        "domain": "www.aruba.it",
+        "expiry": 1754915645,
+        "httpOnly": true,
+        "name": "CMSPreferredCulture",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "en-GB"
+    },
+    {
+        "domain": "www.roblox.com",
+        "expiry": 1738931657,
+        "httpOnly": false,
+        "name": "RBXcb",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "RBXViralAcquisition=true&RBXSource=true&GoogleAnalytics=true"
+    },
+    {
+        "domain": ".roblox.com",
+        "httpOnly": true,
+        "name": "RBXImageCache",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "timg=hFkrdxatOVplBsJy5Z82OaQy_Bag-7znSpH_612lWVac49vQOvVGVWbS4BWqPSMhfPszKKd49LPbxwfPykbI-ndQF5j1AkQRcp014vgwqExsvXNE04Y_SMncTgbUe7pPPYoUE7Cek8f-6kiz-WKEKOtgazUUNdr0ZL3AIXvUg-SgqkwkSVJrgipyp6o8HXrzKaVXhSOOXzz_OgFr7pCHvg"
+    },
+    {
+        "domain": ".roblox.com",
+        "expiry": 1757939654,
+        "httpOnly": false,
+        "name": "GuestData",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "UserID=-1905370897"
+    },
+    {
+        "domain": ".roblox.com",
+        "expiry": 1757939654,
+        "httpOnly": false,
+        "name": "RBXEventTrackerV2",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "CreateDate=08/11/2024 07:34:16&rbxid=&browserid=1723379656316005"
+    },
+    {
+        "domain": ".roblox.com",
+        "expiry": 1725971658,
+        "httpOnly": false,
+        "name": "RBXSource",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "rbx_acquisition_time=08/11/2024 12:34:20&rbx_acquisition_referrer=https://www.roblox.com/&rbx_medium=Social&rbx_source=www.roblox.com&rbx_campaign=&rbx_adgroup=&rbx_keyword=&rbx_matchtype=&rbx_send_info=0"
+    },
+    {
+        "domain": ".roblox.com",
+        "expiry": 1723383255,
+        "httpOnly": false,
+        "name": "rbx-ip2",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1"
+    },
+    {
+        "domain": ".amazon.it",
+        "expiry": 1754915704,
+        "httpOnly": false,
+        "name": "session-token",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "MYgKL/nDZyeXQrmczskPzn9H8C6Lm7uFxFjHHNsofnRZBepQlg3LpvH5C95EyWnzvrf/vVo9w1ew2o7sKScQMJIOzOOtnKHVGQ8bCyG8DubJFskCaGLLk0d9X9+JfdZbCvX1oJ1t0RCrSHBm2yUwnngcZdVrkxQRiHGKaQ8i3SwpruFxsBC6Z3BAQlmk7CoXGKbth/Wq++HZlroaB5uMSjtsrCJVqaO2BmSDsfTcd4jI7bEyt75AdH7m0yg39/oLrrKUdOaa8j8hoV5HZue3xDT3v1mLl+UNcdLdvMsji/DpuHT1wu83lFe0FIa6EOKoWfTvwIsKQeJgpQhFu4qtI0/ng3HofiGc"
+    },
+    {
+        "domain": ".amazon.it",
+        "expiry": 1754915701,
+        "httpOnly": false,
+        "name": "ubid-acbit",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "261-0310428-9776745"
+    },
+    {
+        "domain": "www.amazon.it",
+        "expiry": 1753619700,
+        "httpOnly": false,
+        "name": "csm-hit",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "tb:s-1X6V71AYDYS3FV80PMY1|1723379700591&t:1723379700933&adb:adblk_no"
+    },
+    {
+        "domain": ".amazon.it",
+        "expiry": 1754915700,
+        "httpOnly": false,
+        "name": "session-id",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "262-1048230-2693128"
+    },
+    {
+        "domain": ".amazon.it",
+        "expiry": 1754915700,
+        "httpOnly": false,
+        "name": "session-id-time",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "2082787201l"
+    },
+    {
+        "domain": ".amazon.it",
+        "expiry": 1754915700,
+        "httpOnly": false,
+        "name": "i18n-prefs",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "EUR"
+    },
+    {
+        "domain": ".raiplay.it",
+        "expiry": 1723381512,
+        "httpOnly": false,
+        "name": "wt_mcp_sid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "3392374603"
+    },
+    {
+        "domain": ".raiplay.it",
+        "expiry": 1728563712,
+        "httpOnly": false,
+        "name": "wt_rla",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "602039762736393%2C2%2C1723379712551"
+    },
+    {
+        "domain": ".raiplay.it",
+        "httpOnly": false,
+        "name": "wt_nv_s",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1"
+    },
+    {
+        "domain": ".raiplay.it",
+        "expiry": 1754915711,
+        "httpOnly": false,
+        "name": "gig_bootstrap_3_I55u9iiGSTrsMk0Tr9SlgcL37clRoL_wyiCxSRPWD_6tBccbLbPGAyOmekkrpoEn",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "auth_ver4"
+    },
+    {
+        "domain": ".raiplay.it",
+        "expiry": 1738931712,
+        "httpOnly": false,
+        "name": "wt_nv",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1"
+    },
+    {
+        "domain": ".www.raiplay.it",
+        "httpOnly": false,
+        "name": "gig_canary_ver",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "16174-3-28722990"
+    },
+    {
+        "domain": ".www.raiplay.it",
+        "httpOnly": false,
+        "name": "gig_canary",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "false"
+    },
+    {
+        "domain": ".www.tiktok.com",
+        "expiry": 1723811765,
+        "httpOnly": false,
+        "name": "perf_feed_cache",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "{%22expireTimestamp%22:0%2C%22itemIds%22:[]}"
+    },
+    {
+        "domain": ".tiktok.com",
+        "expiry": 1724243764,
+        "httpOnly": false,
+        "name": "msToken",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "ZsQxrXcKaXX5iZH7oTVqdz-iiOiCL-KvOqqzCyS09OvWel2Hwe-Q-Z1WhX6l6rZAwE5fLN5xzlOSuRXMizE9WKbXSlj_669Ht5qzfM0-LqDnEDdJYmoFLV0WiuKs"
+    },
+    {
+        "domain": ".tiktok.com",
+        "expiry": 1754915762,
+        "httpOnly": true,
+        "name": "ttwid",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "1%7CUl9HqVg40y3LmUfcHQLgY87jAYmv7Mv6GWsvLFm0zfo%7C1723379764%7C363a37bf7d69789e708a04ee9c81a10c05e7f0596f006f742703fcb2986d66c9"
+    },
+    {
+        "domain": ".tiktok.com",
+        "expiry": 1723386957,
+        "httpOnly": false,
+        "name": "bm_sv",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "A894AF948D0741B366B05FB3B4FDF397~YAAQzANJF+z2fDKRAQAA/DlwQRg2zgRRgfdNlEerKXHTDBiRhxniYP2ZE6h9a6xs7TFNO4/7Es67qOrFQZJr54nUYxmHljpJZV6LqtpG3Hp82NX5//DYRU9P3qBciaonfMmejtotfZmvBELO42SrKc8basNznW0D4KsIHQnEUHVYggmGy9fZve9X+WkvFeAPcPLi2XYldqsh27ETBe0ry57EtFajFfrAAON32BRr6QYnRcFKvuRQ304X64RMexdQ~1"
+    },
+    {
+        "domain": ".www.tiktok.com",
+        "expiry": 1749299761,
+        "httpOnly": false,
+        "name": "delay_guest_mode_vid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "2"
+    },
+    {
+        "domain": ".www.tiktok.com",
+        "expiry": 1749299761,
+        "httpOnly": false,
+        "name": "tiktok_webapp_theme_source",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "system"
+    },
+    {
+        "domain": ".tiktok.com",
+        "expiry": 1723386956,
+        "httpOnly": false,
+        "name": "ak_bmsc",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "63E552DC9F0C46E59473769AD830F5DA~000000000000000000000000000000~YAAQzANJF+T2fDKRAQAA/zdwQRiyrPFdH8EIcy99pvR6hYtH7w1yb7qqDXNWPquBGVBzf/8X1YMEr4HZhG4ybTx8dmBSQjV/P5ctjmTNGsquiuJvMWKZvNmWfPRJMKOc697z5f7W3t6aCbhcygsB5Br8gwI6EDiD2vzfqOxHUIh4DLfzjcdiswFLUTDOJV/4NMXqrlHoH8MZBlh0e7rTYKYCYX2SoWtU1hZLT6r+MbMzaJ668sqcF/Gk6wHerLJ+7NQoS3QdJHIq1z1B5dwF38IfoLtZwvv2yRIeoOnGTLZFAnbBfQcyQy/EWG+OEY+B+Hhe/ar5lBtMW1yBc425AaKJU0T15W2iGFcuZtb314hNc3Mc2bcM6mFH/FX0LZVXbaXJjQizfzfTng=="
+    },
+    {
+        "domain": ".www.tiktok.com",
+        "expiry": 1749299761,
+        "httpOnly": false,
+        "name": "tiktok_webapp_theme",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "light"
+    },
+    {
+        "domain": ".tiktok.com",
+        "expiry": 1738931757,
+        "httpOnly": true,
+        "name": "tt_chain_token",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "OgcRt1Ab+hBf6+JBLfTthg=="
+    },
+    {
+        "domain": "www.tiktok.com",
+        "expiry": 1731155765,
+        "httpOnly": false,
+        "name": "msToken",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "AO2LYOdzI33ILeA2_tcNXHOhgZLQE4PE-whtAfOD8o3mqfIAqYtF3OZo2a3jlYzOV8lJhd3Hl_9gWcG0ne6hbhmrNnZ7B0R5gZNlUHYYuuUkeh-FvnZ4jcdzAK99C-cUxBt1HbF7sAXWePp8cV7AEJc="
+    },
+    {
+        "domain": ".tiktok.com",
+        "httpOnly": true,
+        "name": "tt_csrf_token",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "Sbo8XGxa-FJDCdzU3KOJ2lQ4DhoS6TU73O6g"
+    },
+    {
+        "domain": ".ilmeteo.it",
+        "expiry": 1757939826,
+        "httpOnly": false,
+        "name": "_ga",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "GA1.1.1652902891.1723379827"
+    },
+    {
+        "domain": "www.ilmeteo.it",
+        "expiry": 1725971768,
+        "httpOnly": false,
+        "name": "pageDay",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "7.11%2F1"
+    },
+    {
+        "domain": ".ilmeteo.it",
+        "expiry": 1754915768,
+        "httpOnly": false,
+        "name": "tracking_user_id",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "og4x9763bv141mpzhk9kinhfrdu5eur5"
+    },
+    {
+        "domain": "www.ilmeteo.it",
+        "expiry": 1723380127,
+        "httpOnly": false,
+        "name": "dicbo_id",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "%7B%22dicbo_fetch%22%3A1723379827236%7D"
+    },
+    {
+        "domain": ".ilmeteo.it",
+        "expiry": 1754939768,
+        "httpOnly": false,
+        "name": "tracking_user_visits",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "1"
+    },
+    {
+        "domain": "www.ilmeteo.it",
+        "expiry": 1723811771,
+        "httpOnly": false,
+        "name": "DRUPALSESF",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1"
+    },
+    {
+        "domain": ".ilmeteo.it",
+        "expiry": 1739277368,
+        "httpOnly": false,
+        "name": "compass_uid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "42cf2395-f87d-4841-9209-94c88a288420"
+    },
+    {
+        "domain": ".ilmeteo.it",
+        "expiry": 1757939826,
+        "httpOnly": false,
+        "name": "_ga_WGKCLFMW2J",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "GS1.1.1723379826.1.0.1723379826.60.0.0"
+    },
+    {
+        "domain": ".ilmeteo.it",
+        "expiry": 1739277368,
+        "httpOnly": false,
+        "name": "___nrbi",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "%7B%22firstVisit%22%3A1723379768%2C%22userId%22%3A%2242cf2395-f87d-4841-9209-94c88a288420%22%2C%22userVars%22%3A%5B%5D%2C%22futurePreviousVisit%22%3A1723379768%2C%22timesVisited%22%3A1%7D"
+    },
+    {
+        "domain": ".ilmeteo.it",
+        "httpOnly": false,
+        "name": "___nrbic",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "%7B%22isNewUser%22%3Atrue%2C%22previousVisit%22%3A1723379768%2C%22currentVisitStarted%22%3A1723379768%2C%22sessionId%22%3A%2257df5c49-2644-4345-91b2-ba53ed1600f6%22%2C%22sessionVars%22%3A%5B%5D%2C%22visitedInThisSession%22%3Atrue%2C%22pagesViewed%22%3A1%2C%22landingPage%22%3A%22https%3A//www.ilmeteo.it/%22%2C%22referrer%22%3A%22%22%7D"
+    },
+    {
+        "domain": ".whatsapp.com",
+        "httpOnly": true,
+        "name": "wa_csrf",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "SnlKCEUXAz4ho6krm_Sl2H"
+    },
+    {
+        "domain": ".www.whatsapp.com",
+        "expiry": 1731155832,
+        "httpOnly": true,
+        "name": "wa_ul",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "8f921def-0980-468c-9438-db467b7188b0"
+    },
+    {
+        "domain": ".whatsapp.com",
+        "expiry": 1757939832,
+        "httpOnly": true,
+        "name": "ps_n",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "0"
+    },
+    {
+        "domain": ".whatsapp.com",
+        "expiry": 1723984632,
+        "httpOnly": false,
+        "name": "wa_lang_pref",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "ru"
+    },
+    {
+        "domain": ".whatsapp.com",
+        "expiry": 1757939832,
+        "httpOnly": true,
+        "name": "ps_l",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "0"
+    },
+    {
+        "domain": ".fandom.com",
+        "expiry": 1757075847,
+        "httpOnly": false,
+        "name": "cto_bundle",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "L2xZoV9paFZBTFBubEZaZkh1WlUlMkJFVWREV1J6RmtMaWplcVBqT1EwZWNCa2ZOMmFBdTJHeFNqVGRqYnhFamlUSTU3UFklMkJzQkZQZVMxTWZFclZjaFNvckhxZW9NdkRCSU9lcTZlOHpubEhZOHV4dWx0eU1TTGt4SjdSUWQlMkY2MDJGMnlzQlUzNWdZU2I3bThuVzEzblRKJTJCakpBQSUzRCUzRA"
+    },
+    {
+        "domain": ".fandom.com",
+        "expiry": 1723984649,
+        "httpOnly": false,
+        "name": "panoramaId",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "01af24c0f5cdc55473d72851e2a616d539380ee2140d522b5141ba49fba270ec"
+    },
+    {
+        "domain": ".fandom.com",
+        "expiry": 1754915846,
+        "httpOnly": false,
+        "name": "connectId",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "{\"ttl\":86400000,\"lastUsed\":1723379846763,\"lastSynced\":1723379846763}"
+    },
+    {
+        "domain": ".fandom.com",
+        "expiry": 1738931848,
+        "httpOnly": false,
+        "name": "__eoi",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "ID=7f05462e9738e8c8:T=1723379848:RT=1723379848:S=AA-AfjYLfnbZxfQG6a1sKTC0F2tP"
+    },
+    {
+        "domain": ".fandom.com",
+        "expiry": 1757075848,
+        "httpOnly": false,
+        "name": "__gpi",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "UID=00000e8f31b3f739:T=1723379848:RT=1723379848:S=ALNI_MagJsxu1XjbBWXPDh8axSJaHBENwA"
+    },
+    {
+        "domain": ".fandom.com",
+        "expiry": 1757075848,
+        "httpOnly": false,
+        "name": "__gads",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "ID=1eb387dc11c7a0fc:T=1723379848:RT=1723379848:S=ALNI_Mb-90RZhZXeQAa8b778AkYjFPAM8A"
+    },
+    {
+        "domain": ".fandom.com",
+        "expiry": 1754915843,
+        "httpOnly": false,
+        "name": "AMP_6765a55f49",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjJiYjVmYmNjOS00NzFmLTRkZWUtOWRlMC0zNDJmYTBhMDhiOTklMjIlMkMlMjJzZXNzaW9uSWQlMjIlM0ExNzIzMzc5ODQxMTYwJTJDJTIyb3B0T3V0JTIyJTNBZmFsc2UlMkMlMjJsYXN0RXZlbnRUaW1lJTIyJTNBMTcyMzM3OTg0MzE1NyUyQyUyMmxhc3RFdmVudElkJTIyJTNBNiU3RA=="
+    },
+    {
+        "domain": ".fandom.com",
+        "expiry": 1754915843,
+        "httpOnly": false,
+        "name": "_au_1d",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "AU1D-0100-001723379843-7INV8VR0-4SKB"
+    },
+    {
+        "domain": ".fandom.com",
+        "expiry": 1757939842,
+        "httpOnly": false,
+        "name": "_b2",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "JSk9uC_g9I.1723379841439"
+    },
+    {
+        "domain": ".fandom.com",
+        "expiry": 1723381642,
+        "httpOnly": false,
+        "name": "pvNumberGlobal",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1"
+    },
+    {
+        "domain": ".www.fandom.com",
+        "expiry": 1723381642,
+        "httpOnly": false,
+        "name": "pvNumber",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1"
+    },
+    {
+        "domain": ".fandom.com",
+        "expiry": 1757248644,
+        "httpOnly": false,
+        "name": "__qca",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "P0-2129080181-1723379842801"
+    },
+    {
+        "domain": ".fandom.com",
+        "expiry": 1723381642,
+        "httpOnly": false,
+        "name": "sessionId",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "eb3bf1c0-83a7-48d5-adc0-79b5becb1af8"
+    },
+    {
+        "domain": ".fandom.com",
+        "expiry": 1757543843,
+        "httpOnly": false,
+        "name": "_parsely_visitor",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "{%22id%22:%22pid=c81f727ebf56b88b7eaff0326751e71c%22%2C%22session_count%22:1%2C%22last_session_ts%22:1723379843104}"
+    },
+    {
+        "domain": ".fandom.com",
+        "httpOnly": false,
+        "name": "_ce.irv",
+        "path": "/",
+        "sameSite": "Strict",
+        "secure": false,
+        "value": "new"
+    },
+    {
+        "domain": ".fandom.com",
+        "expiry": 1738931842,
+        "httpOnly": false,
+        "name": "basset",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": ""
+    },
+    {
+        "domain": ".fandom.com",
+        "expiry": 1738931843,
+        "httpOnly": false,
+        "name": "nol_fpid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "49vy6h7zkoxfv7iasgpaqqjqzhprp1723379843|1723379843279|1723379843279|1723379843279"
+    },
+    {
+        "domain": ".fandom.com",
+        "expiry": 1723466243,
+        "httpOnly": false,
+        "name": "_gid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "GA1.2.892463006.1723379841"
+    },
+    {
+        "domain": ".fandom.com",
+        "expiry": 1723466242,
+        "httpOnly": false,
+        "name": "_ce.clock_data",
+        "path": "/",
+        "sameSite": "Strict",
+        "secure": false,
+        "value": "-1936%2C178.205.53.56%2C1%2Cf1f6b29a6cc1f79a0fea05b885aa33d0%2CChrome%2CRU"
+    },
+    {
+        "domain": ".fandom.com",
+        "expiry": 1757939842,
+        "httpOnly": true,
+        "name": "fandom_global_id",
+        "path": "/",
+        "sameSite": "Strict",
+        "secure": true,
+        "value": "39ffc305-d39b-4980-a6c1-f49e0dbad219"
+    },
+    {
+        "domain": ".fandom.com",
+        "expiry": 1738931839,
+        "httpOnly": false,
+        "name": "exp_bucket",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "45"
+    },
+    {
+        "domain": ".fandom.com",
+        "expiry": 1754915841,
+        "httpOnly": false,
+        "name": "AMP_MKTG_6765a55f49",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "JTdCJTdE"
+    },
+    {
+        "domain": ".fandom.com",
+        "expiry": 1723381643,
+        "httpOnly": false,
+        "name": "_parsely_session",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "{%22sid%22:1%2C%22surl%22:%22https://www.fandom.com/%22%2C%22sref%22:%22%22%2C%22sts%22:1723379843104%2C%22slts%22:0}"
+    },
+    {
+        "domain": ".fandom.com",
+        "httpOnly": false,
+        "name": "Geo",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "{%22region%22:%22TA%22%2C%22city%22:%22anatysh%22%2C%22country_name%22:%22russian federation%22%2C%22country%22:%22RU%22%2C%22continent%22:%22EU%22}"
+    },
+    {
+        "domain": ".fandom.com",
+        "httpOnly": false,
+        "name": "cebs",
+        "path": "/",
+        "sameSite": "Strict",
+        "secure": false,
+        "value": "1"
+    },
+    {
+        "domain": ".fandom.com",
+        "expiry": 1738931842,
+        "httpOnly": false,
+        "name": "wikia_session_id",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "hla-_bGzOM"
+    },
+    {
+        "domain": ".fandom.com",
+        "expiry": 1746707846,
+        "httpOnly": false,
+        "name": "_cc_id",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "d426c762ae128911462cd1f047df843b"
+    },
+    {
+        "domain": ".fandom.com",
+        "expiry": 1731155839,
+        "httpOnly": false,
+        "name": "exp_bucket_2",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "v2-61"
+    },
+    {
+        "domain": ".fandom.com",
+        "expiry": 1757939843,
+        "httpOnly": false,
+        "name": "_ga",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "GA1.2.1301357564.1723379841"
+    },
+    {
+        "domain": ".fandom.com",
+        "httpOnly": false,
+        "name": "cebsp_",
+        "path": "/",
+        "sameSite": "Strict",
+        "secure": false,
+        "value": "1"
+    },
+    {
+        "domain": ".fandom.com",
+        "expiry": 1723984649,
+        "httpOnly": false,
+        "name": "panoramaId_expiry",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1723984648873"
+    },
+    {
+        "domain": ".fandom.com",
+        "expiry": 1723466241,
+        "httpOnly": false,
+        "name": "_ce.clock_event",
+        "path": "/",
+        "sameSite": "Strict",
+        "secure": false,
+        "value": "1"
+    },
+    {
+        "domain": ".fandom.com",
+        "expiry": 1754915902,
+        "httpOnly": false,
+        "name": "_ce.s",
+        "path": "/",
+        "sameSite": "Strict",
+        "secure": false,
+        "value": "v~b7110e4aef17b8f1287cacdb03a460957b2da6c1~lcw~1723379843096~lva~1723379841223~vpv~0~v11.fhb~1723379842683~v11.lhb~1723379902692~v11.cs~362001~v11.s~74df9260-57de-11ef-a642-2bfebf17ff8d~gtrk.ngv~%7B%7D~gtrk.cnv~ov1~lcw~1723379902693"
+    },
+    {
+        "domain": ".fandom.com",
+        "expiry": 1738931842,
+        "httpOnly": false,
+        "name": "eb",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "18"
+    },
+    {
+        "domain": ".fandom.com",
+        "expiry": 1723984649,
+        "httpOnly": false,
+        "name": "panoramaIdType",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "panoIndiv"
+    },
+    {
+        "domain": ".fandom.com",
+        "expiry": 1738931842,
+        "httpOnly": false,
+        "name": "wikia_beacon_id",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "dAeG6Y_nxi"
+    },
+    {
+        "domain": ".yahoo.com",
+        "expiry": 1757075984,
+        "httpOnly": false,
+        "name": "cto_bundle",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "lOuReV9hM0thR28lMkZKVHA2VDE4WlZLbHZZcUFabHdhSVRFaVhsOXFNZGFHSGdmWHMwN3VST3pDeTU1V1ByNDI0eiUyRkV5TDZ1Y0prJTJGUU1CZkhBUldackhUQUlxY042TTNhSzBXT0h3ZzFBTndBbjVRWElaV0pEenkyY3FaV01HJTJGbzJXQ3JrJTJGU1JWQ28lMkZOdEp5cEwzdFpYS1I0QVElM0QlM0Q"
+    },
+    {
+        "domain": ".yahoo.com",
+        "expiry": 1754915935,
+        "httpOnly": false,
+        "name": "tbla_id",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "7955b623-3430-4c55-8243-b63998465e1d-tuctdb23660"
+    },
+    {
+        "domain": ".yahoo.com",
+        "expiry": 1723466334,
+        "httpOnly": false,
+        "name": "gpp_sid",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "-1"
+    },
+    {
+        "domain": "www.yahoo.com",
+        "expiry": 1754915934,
+        "httpOnly": false,
+        "name": "trc_cookie_storage",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "taboola%2520global%253Auser-id%3D7955b623-3430-4c55-8243-b63998465e1d-tuctdb23660"
+    },
+    {
+        "domain": ".yahoo.com",
+        "expiry": 1754937542,
+        "httpOnly": true,
+        "name": "A3",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "d=AQABBD-wuGYCEJ0Uqszpjoj-k557maZj-EUFEgEBAQEBumbCZp6fzyMA_eMAAA&S=AQAAAgadlU03bdxIAGMcMjKT5i4"
+    },
+    {
+        "domain": ".yahoo.com",
+        "expiry": 1754915934,
+        "httpOnly": false,
+        "name": "cmp",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "t=1723379934&j=0&u=1---"
+    },
+    {
+        "domain": ".www.yahoo.com",
+        "expiry": 1725971932,
+        "httpOnly": true,
+        "name": "yhome-viper",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "1"
+    },
+    {
+        "domain": ".yahoo.com",
+        "expiry": 1723466334,
+        "httpOnly": false,
+        "name": "gpp",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "DBAA"
+    },
+    {
+        "domain": ".yahoo.com",
+        "expiry": 1754937531,
+        "httpOnly": true,
+        "name": "A1",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "d=AQABBD-wuGYCEJ0Uqszpjoj-k557maZj-EUFEgEBAQEBumbCZp6fzyMA_eMAAA&S=AQAAAgadlU03bdxIAGMcMjKT5i4"
+    },
+    {
+        "domain": ".yahoo.com",
+        "expiry": 1754915935,
+        "httpOnly": false,
+        "name": "axids",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "gam=y-hbt_p5hE2uLMZNPxooR2TFGWKLxjD0rT~A&dv360=eS1mTWIza0UxRTJ1R1R1VHBSMF9UaUJRNlhDWWRubUZFM35B&ydsp=y-Oc4Hl2FE2uLGcbScsjAi6z0Y62rxalZZ~A&tbla=y-GY8BvzhE2uIe9HAZIlLFQUSQjXz4J3n5~A"
+    },
+    {
+        "domain": ".yahoo.com",
+        "httpOnly": false,
+        "name": "A1S",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "d=AQABBD-wuGYCEJ0Uqszpjoj-k557maZj-EUFEgEBAQEBumbCZp6fzyMA_eMAAA&S=AQAAAgadlU03bdxIAGMcMjKT5i4"
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1754916023,
+        "httpOnly": false,
+        "name": "FCNEC",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "%5B%5B%22AKsRol_Yr_N2MZIFIzXqKJETbbYQkFIn-_7ZCzi-BlRqGzOQU49DTcU0I99uoHC_p2PgaZ0UigHp6S1OLLVFh4eTATyw7liQ7-B2o7eT6Z2QvGfIuGBL--kH_EbYcpu6ZoqT_-Jr6ujMF8hzOgMt881WFVVA9zb5EQ%3D%3D%22%5D%5D"
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1757507995,
+        "httpOnly": false,
+        "name": "_chartbeat2",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "ChJV1mC82U7BRXUaP.1723379995891.1723379995891.1.R-7bj7rV2DBpRS_o"
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1731328794,
+        "httpOnly": false,
+        "name": "FP_PRVT_USER",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "false"
+    },
+    {
+        "domain": "www.corriere.it",
+        "expiry": 1754915995,
+        "httpOnly": false,
+        "name": "pnespsdk_visitor",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1at5y9qi2pdr8ldl"
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1754915992,
+        "httpOnly": false,
+        "name": "uuidv4",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "ce10d904-3a4b-4ae4-ac1b-137e49e1957f"
+    },
+    {
+        "domain": "www.corriere.it",
+        "expiry": 1754915992,
+        "httpOnly": false,
+        "name": "rcsMeteo",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "4074%7CMilano%7C/italia/lombardia/milano"
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1754915994,
+        "httpOnly": false,
+        "name": "_pc_rcsad_abbonato",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "false"
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1725971994,
+        "httpOnly": false,
+        "name": "__pat",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "7200000"
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1757939994,
+        "httpOnly": false,
+        "name": "__tbc",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "%7Bkpex%7DhZUsMPohxLhQrUGsu_KJDza9xOUxQDHLnfF1kyL9eTISkslPzIawRC8z3btU-wa6"
+    },
+    {
+        "domain": ".corriere.it",
+        "httpOnly": false,
+        "name": "s_ips",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "699"
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1731328794,
+        "httpOnly": false,
+        "name": "FP_PRVT_USER_NPM",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "false"
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1723466394,
+        "httpOnly": false,
+        "name": "__pvi",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "eyJpZCI6InYtbHpwank5eDM1b3ZzZ2xjNiIsImRvbWFpbiI6Ii5jb3JyaWVyZS5pdCIsInRpbWUiOjE3MjMzNzk5OTQ3NzR9"
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1754915991,
+        "httpOnly": false,
+        "name": "apw_browser",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "52622324023186052."
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1757507994,
+        "httpOnly": false,
+        "name": "_pcid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "%7B%22browserId%22%3A%22lzpjy9wr6vnh9md7%22%7D"
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1754915994,
+        "httpOnly": false,
+        "name": "_pc_ltsscore",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "NO"
+    },
+    {
+        "domain": "www.corriere.it",
+        "expiry": 1723466393,
+        "httpOnly": false,
+        "name": "_lr_geo_location",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "RU"
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1757507994,
+        "httpOnly": false,
+        "name": "_pctx",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAEzIEYOAmATgFYA7NwAsYgMwcAHAAYh-AGziQAXyA"
+    },
+    {
+        "domain": ".corriere.it",
+        "httpOnly": false,
+        "name": "OMN_LNK_CR",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "COR%2FHomepage%5E%5Eundefined%5E%5ECOR%2FHomepage%20%7C%20undefined%5E%5E"
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1757939993,
+        "httpOnly": false,
+        "name": "AMCV_AA5673AE52E15B730A490D4C%40AdobeOrg",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1176715910%7CMCIDTS%7C19947%7CMCMID%7C32787753042131728422067131150745778447%7CMCAAMLH-1723984792%7C6%7CMCAAMB-1723984792%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1723387193s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C5.4.0"
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1754483992,
+        "httpOnly": false,
+        "name": "__chkVLST",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "0"
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1723383593,
+        "httpOnly": false,
+        "name": "IpTech",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "178.205.53.56"
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1723381793,
+        "httpOnly": false,
+        "name": "s_fbsr",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1"
+    },
+    {
+        "domain": ".corriere.it",
+        "httpOnly": false,
+        "name": "s_fid_old",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "32787753042131728422067131150745778447"
+    },
+    {
+        "domain": ".corriere.it",
+        "httpOnly": false,
+        "name": "s_cc",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "true"
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1725971993,
+        "httpOnly": false,
+        "name": "s_nr",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1723379993641-New"
+    },
+    {
+        "domain": ".corriere.it",
+        "httpOnly": false,
+        "name": "s_fid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "32787753042131728422067131150745778447"
+    },
+    {
+        "domain": ".corriere.it",
+        "httpOnly": false,
+        "name": "s_ppv",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "COR%252FHomepage%2C2%2C2%2C699%2C1%2C53"
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1757507994,
+        "httpOnly": false,
+        "name": "cX_P",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "lzpjy9wr6vnh9md7"
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1754483992,
+        "httpOnly": false,
+        "name": "_pc_cpwall",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "true"
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1757939994,
+        "httpOnly": false,
+        "name": "xbc",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "%7Bkpex%7DUX5D9zKb_H9LIbTUv067fHtjz1gvRw_useZBmpGX19_8NrlGoy8h5tXPAdayXz3t7URvWHS2isL6vRMnZ08-rA"
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1754915994,
+        "httpOnly": false,
+        "name": "cacheid",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "1723379995974.31304804071239012"
+    },
+    {
+        "domain": "www.corriere.it",
+        "expiry": 1723466393,
+        "httpOnly": false,
+        "name": "_lr_geo_location_state",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "TA"
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1723466392,
+        "httpOnly": false,
+        "name": "browserBloccoPub",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "no"
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1754483993,
+        "httpOnly": false,
+        "name": "UESeg",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "32787753042131728422067131150745778447"
+    },
+    {
+        "domain": ".corriere.it",
+        "httpOnly": false,
+        "name": "AMCVS_AA5673AE52E15B730A490D4C%40AdobeOrg",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1"
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1723466423,
+        "httpOnly": false,
+        "name": "googleAdBlock",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "si"
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1757507995,
+        "httpOnly": false,
+        "name": "cX_G",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "cx%3A2hhknkzjcrlgi29dplvtgwx6vv%3A1j1xy3ikpsujg"
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1731328794,
+        "httpOnly": false,
+        "name": "FP_PRVT_USER_LSTLGN",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "1723379994047"
+    },
+    {
+        "domain": ".corriere.it",
+        "httpOnly": false,
+        "name": "s_tp",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "37729"
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1757507994,
+        "httpOnly": false,
+        "name": "_pcus",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "eyJ1c2VyU2VnbWVudHMiOnsiQ09NUE9TRVIxWCI6eyJzZWdtZW50cyI6WyJMVHM6MGQ0ZGEzODNjMGI2NDdhMWMwNDgxZWRhOTEzMGVkNTdmMDQ4MDk1ZTpub19zY29yZSIsIkxUYzpmOTY1NDVkMzc5OWM0MTk1OTczYjhhZjk1ODFjYTdlY2QwZGUyOWJhOm5vX3Njb3JlIiwiQ1Njb3JlOjU0NTlmMzc4YmYyMjYxMzZkN2MyMmYxZDNhYzcyYWZkN2M0OGJiMjk6bm9fc2NvcmUiLCJMVHJldHVybjoxNWQ0NmIwMjY5MjBiYWMyNzZiZjUxZTYyNzYzM2FiM2Y0ZTJmMTIxOm5vX3Njb3JlIl19fX0%3D"
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1754915992,
+        "httpOnly": false,
+        "name": "TSstop",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "NA|1723379992833"
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1757507995,
+        "httpOnly": false,
+        "name": "_cb",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "ChJV1mC82U7BRXUaP"
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1754915990,
+        "httpOnly": true,
+        "name": "apw_cache",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "0..1723379992.fz3n4A.RU.0...0.0...EGtel01Wbo1m3Btcuyog31x8t3mkR-glPavI1mfowIw"
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1754915992,
+        "httpOnly": false,
+        "name": "PermutiveRandomInt",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "0"
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1754915991,
+        "httpOnly": false,
+        "name": "gptTest",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1"
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1754483991,
+        "httpOnly": false,
+        "name": "__CPcorriere_ct",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "3"
+    },
+    {
+        "domain": "www.corriere.it",
+        "httpOnly": false,
+        "name": "pnespsdk_ssn",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "%7B%22%24s%22%3A1723379995025%2C%22visitNumber%22%3A1%7D"
+    },
+    {
+        "domain": ".corriere.it",
+        "expiry": 1754483991,
+        "httpOnly": false,
+        "name": "__GDPRcorriere_ct",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "0"
+    },
+    {
+        "domain": ".www.ilfattoquotidiano.it",
+        "expiry": 1757940030,
+        "httpOnly": false,
+        "name": "G_ENABLED_IDPS",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "google"
+    },
+    {
+        "domain": ".subito.it",
+        "expiry": 1741524036,
+        "httpOnly": false,
+        "name": "kppid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "3BC72A7A00DD8AA0C1B9F431"
+    },
+    {
+        "domain": ".immobiliare.it",
+        "expiry": 1757940085,
+        "httpOnly": false,
+        "name": "_ga_MKQ0HTYZFW",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "GS1.1.1723380085.1.0.1723380085.0.0.0"
+    },
+    {
+        "domain": ".immobiliare.it",
+        "expiry": 1757940044,
+        "httpOnly": false,
+        "name": "_ga_57HD1CXZCY",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "GS1.1.1723380044.1.1.1723380043.60.0.0"
+    },
+    {
+        "domain": "www.immobiliare.it",
+        "expiry": 1754926844,
+        "httpOnly": false,
+        "name": "__rtbh.lid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "%7B%22eventType%22%3A%22lid%22%2C%22id%22%3A%22LVzSqKITHJN6LlVj5Chr%22%7D"
+    },
+    {
+        "domain": "www.immobiliare.it",
+        "expiry": 1723380345,
+        "httpOnly": false,
+        "name": "dicbo_id",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "%7B%22dicbo_fetch%22%3A1723380045509%7D"
+    },
+    {
+        "domain": ".immobiliare.it",
+        "httpOnly": false,
+        "name": "dtCookie",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "v_4_srv_5_sn_D8E556DD4D8644005BFF42F1BAB51813_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1"
+    },
+    {
+        "domain": "www.immobiliare.it",
+        "expiry": 1754926844,
+        "httpOnly": false,
+        "name": "__rtbh.uid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "%7B%22eventType%22%3A%22uid%22%2C%22id%22%3A%22undefined%22%7D"
+    },
+    {
+        "domain": ".immobiliare.it",
+        "expiry": 1757940085,
+        "httpOnly": false,
+        "name": "_ga",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "GA1.1.938548674.1723380044"
+    },
+    {
+        "domain": ".immobiliare.it",
+        "expiry": 1757544055,
+        "httpOnly": false,
+        "name": "cto_bundle",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "ILfaE19RdFc1RGc3bTMxV0ZzVDI1JTJGQm1xN0hKWjhSS2FaR2klMkZKaTRIMDhkOXBMaSUyRlZLRFJuc0g3N2JweVg0aXlEUkVrc1dERW9qb2JIbk1UTnNqa01tZTVkc1VkR2RlZ3NXTDFYJTJGaEt0bnNBOTFVWWJSWlFJUGs3bW5QZlpaWHJNUDhLMjZEN0FiWWdqUk5qelZ1RVpoRk5LSyUyRkpxd1NoeGtGcnREWCUyQllVbE0ybHclM0Q"
+    },
+    {
+        "domain": ".immobiliare.it",
+        "expiry": 1739191244,
+        "httpOnly": false,
+        "name": "didomi_token",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "eyJ1c2VyX2lkIjoiMTkxNDE3NDktMTA0My02N2M5LTk1ZTQtNmM0MTM2ODk5ZjgxIiwiY3JlYXRlZCI6IjIwMjQtMDgtMTFUMTI6NDA6NDQuMDM2WiIsInVwZGF0ZWQiOiIyMDI0LTA4LTExVDEyOjQwOjQ0LjAzN1oiLCJ2ZXJzaW9uIjpudWxsfQ=="
+    },
+    {
+        "domain": ".immobiliare.it",
+        "expiry": 1731156044,
+        "httpOnly": false,
+        "name": "_gcl_au",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1.1.1876839901.1723380044"
+    },
+    {
+        "domain": ".youtube.com",
+        "expiry": 1757940140,
+        "httpOnly": false,
+        "name": "PREF",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "f4=4000000&tz=Europe.Moscow"
+    },
+    {
+        "domain": ".youtube.com",
+        "expiry": 1738932131,
+        "httpOnly": true,
+        "name": "VISITOR_PRIVACY_METADATA",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "CgJSVRIEGgAgSA%3D%3D"
+    },
+    {
+        "domain": ".youtube.com",
+        "expiry": 1738932131,
+        "httpOnly": true,
+        "name": "VISITOR_INFO1_LIVE",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "Mv4iPCR_e-w"
+    },
+    {
+        "domain": ".youtube.com",
+        "expiry": 1723381931,
+        "httpOnly": true,
+        "name": "GPS",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "1"
+    },
+    {
+        "domain": ".youtube.com",
+        "httpOnly": true,
+        "name": "YSC",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "ksXtWmf1kCY"
+    },
+    {
+        "domain": ".amazon.com",
+        "expiry": 1754916144,
+        "httpOnly": false,
+        "name": "ubid-main",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "133-4288807-9068413"
+    },
+    {
+        "domain": "www.amazon.com",
+        "expiry": 1753620144,
+        "httpOnly": false,
+        "name": "csm-hit",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "tb:s-3HY0G5BRVHTK32Y0Q945|1723380143509&t:1723380144096&adb:adblk_no"
+    },
+    {
+        "domain": ".amazon.com",
+        "httpOnly": false,
+        "name": "skin",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "noskin"
+    },
+    {
+        "domain": ".amazon.com",
+        "expiry": 1754916144,
+        "httpOnly": false,
+        "name": "session-token",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "q+BxA8falAHCPw3CoeMJyCNYa8eI8erybcvqaOePGq+s1B98Z2aJSZ6cnwiJXoxaOgOys55fcFx3KXknnjkszb5C2nGzvDB/SyD2QG50mfVwOwm2Rr6mkLoOXTr1jmB5V2lPQICc2H5WcdO90V+WXfGQsoz/MaXShL7hp3SiOw7SWpFBDBSTLLiFv6WqQzbIJCI/g/tjsAogGYfACOVYjt3tmf9BH5l694Iet4EINr+y7b03r/Mu7+vzZ3WYB1muiVCmeRhivEK5kt9WFaGvZe5UvN94CSQ1SqrWcTQGxcjP1gMhHINQEM6mNclg8TXgs4KrffPy741LddIwYIlfDAMT3aYClZbq"
+    },
+    {
+        "domain": ".amazon.com",
+        "expiry": 1754916144,
+        "httpOnly": true,
+        "name": "sp-cdn",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "\"L5Z9:RU\""
+    },
+    {
+        "domain": ".amazon.com",
+        "expiry": 1754916142,
+        "httpOnly": false,
+        "name": "i18n-prefs",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "USD"
+    },
+    {
+        "domain": ".amazon.com",
+        "expiry": 1754916142,
+        "httpOnly": false,
+        "name": "session-id-time",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "2082787201l"
+    },
+    {
+        "domain": ".amazon.com",
+        "expiry": 1754916142,
+        "httpOnly": false,
+        "name": "session-id",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "133-0740381-1102919"
+    },
+    {
+        "domain": ".microsoft.com",
+        "expiry": 1757076161,
+        "httpOnly": false,
+        "name": "_uetvid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "329ca4d057df11efbba0e337e193f02e"
+    },
+    {
+        "domain": ".microsoft.com",
+        "expiry": 1723466561,
+        "httpOnly": false,
+        "name": "_uetsid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "329c274057df11ef83073d3ab0a684b2"
+    },
+    {
+        "domain": ".microsoft.com",
+        "httpOnly": false,
+        "name": "at_check",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "true"
+    },
+    {
+        "domain": ".microsoft.com",
+        "expiry": 1723381958,
+        "httpOnly": false,
+        "name": "MS0",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "b7c663fb653740e5851fc3b8310776cc"
+    },
+    {
+        "domain": ".microsoft.com",
+        "httpOnly": true,
+        "name": "fptctx2",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "H3ihr9e92IdW6yd1ZgQ9S6iHaRiejIdk0aIJJ5j7uH6QpdZ0IaUIb8WPDkvk0iZrojcsyWv4tEoDn%252btAxRofAcsUB7iTZQrQV8%252fCKY8Nm9eVy1cg%252b4yEJC6ffK0PTTdOFDG0iY8okNzE27jhCIMjXQFP8RigDeQFU32sLhd9tiUwJ9BcSkf%252bSIz%252bWLPOzwPSCI7f0aCPh7oG0g%252bRPH2moFOHkPSr%252bHaWzMwN26M65L0iFYXSH5PhV0bHCk5vP188qHQUviWraAwY4PqJQEbMzpFz95sY4eDKQRMjpemHZESeK4Fn0VN33f1nzP4imXvBhHPGs5hc36YIPVtuy2aQ0g%253d%253d"
+    },
+    {
+        "domain": ".microsoft.com",
+        "expiry": 1754916158,
+        "httpOnly": false,
+        "name": "MC1",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "GUID=fc900caafe984804a22a9bbc8780c2e3&HASH=fc90&LV=202408&V=4&LU=1723380159001"
+    },
+    {
+        "domain": ".microsoft.com",
+        "expiry": 1754916156,
+        "httpOnly": true,
+        "name": "MUID",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "38cafb02b47e4a31be1e7d1f66bedb95"
+    },
+    {
+        "domain": "www.microsoft.com",
+        "expiry": 1754916157,
+        "httpOnly": false,
+        "name": "MSFPC",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "GUID=fc900caafe984804a22a9bbc8780c2e3&HASH=fc90&LV=202408&V=4&LU=1723380159001"
+    },
+    {
+        "domain": "www.microsoft.com",
+        "httpOnly": false,
+        "name": "ApplicationGatewayAffinity",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "665c6d222aa393be370baf625af95a24"
+    },
+    {
+        "domain": ".microsoft.com",
+        "expiry": 1757566857,
+        "httpOnly": false,
+        "name": "mbox",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "session#3c2ecb77f072460dad5b59b942ec0890#1723382018|PC#3c2ecb77f072460dad5b59b942ec0890.37_0#1757566857"
+    },
+    {
+        "domain": "www.microsoft.com",
+        "expiry": 1725972154,
+        "httpOnly": false,
+        "name": "PMGSKUMarketCk",
+        "path": "/ru-ru/microsoft-365/outlook",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "ru"
+    },
+    {
+        "domain": ".microsoft.com",
+        "expiry": 1757570158,
+        "httpOnly": false,
+        "name": "AMCV_EA76ADE95776D2EC7F000101%40AdobeOrg",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1585540135%7CMCIDTS%7C19947%7CMCMID%7C23287535757903559841260450554263113077%7CMCAAMLH-1723984958%7C6%7CMCAAMB-1723984958%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCCIDH%7C976294216%7CMCOPTOUT-1723387358s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C4.4.0"
+    },
+    {
+        "domain": "www.microsoft.com",
+        "httpOnly": false,
+        "name": "ApplicationGatewayAffinityCORS",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "665c6d222aa393be370baf625af95a24"
+    },
+    {
+        "domain": ".microsoft.com",
+        "httpOnly": false,
+        "name": "AMCVS_EA76ADE95776D2EC7F000101%40AdobeOrg",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1"
+    },
+    {
+        "domain": ".microsoft.com",
+        "expiry": 1723466557,
+        "httpOnly": false,
+        "name": "MSCC",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "NR"
+    },
+    {
+        "domain": "www.microsoft.com",
+        "expiry": 1754916155,
+        "httpOnly": false,
+        "name": "MicrosoftApplicationsTelemetryDeviceId",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "46dc947e-fb26-49c7-b7c9-db9d96c0911f"
+    },
+    {
+        "domain": "www.microsoft.com",
+        "expiry": 1723381955,
+        "httpOnly": false,
+        "name": "ai_session",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "fv4Kghu0YnKqS6IpCyuEDs|1723380154278|1723380155674"
+    },
+    {
+        "domain": "www.microsoft.com",
+        "expiry": 1723381955,
+        "httpOnly": false,
+        "name": "Cascade.AuthSSO",
+        "path": "/ru-ru/microsoft-365/outlook",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1"
+    },
+    {
+        "domain": "www.microsoft.com",
+        "httpOnly": false,
+        "name": "AEMDC",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "westeurope"
+    },
+    {
+        "domain": ".google.com",
+        "expiry": 1739191335,
+        "httpOnly": true,
+        "name": "NID",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "516=oL_aNvGZQSGPmZizOrdS2DswqgVSKd_2z6DX09fPW8WWl64wK2rd7hUBpOZW8YGeEl31yXoXjROZfZHQx73mI3bEMZ6YU3j2Gumu2ChSmS7sXLGNuJfe4sHPuUK1IEuTs0s1CpCto1qN_VbVEvSrgBiKWBjDlyWPu0SW-OMKrZK6tF957isH3WrTNqbWB0h8PK0"
+    },
+    {
+        "domain": ".google.com",
+        "expiry": 1738932162,
+        "httpOnly": true,
+        "name": "AEC",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "AVYB7cogxZbzksDtFl3Hajzeq-qz0yHIGxEaLobUefuxy4y_GU5Sz6w5vyo"
+    },
+    {
+        "domain": ".888.com",
+        "expiry": 1723984920,
+        "httpOnly": false,
+        "name": "888TestData",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "%7B%22orig-lp%22%3A%22https%3A%2F%2Fwww.888.com%2Fregulation%2Frestricted.htm%22%2C%22currentvisittype%22%3A%22Unknown%22%2C%22strategy%22%3A%22UnknownStrategy%22%2C%22strategysource%22%3A%22previousvisit%22%7D"
+    },
+    {
+        "domain": ".888.com",
+        "expiry": 1723984920,
+        "httpOnly": false,
+        "name": "888TestDataLocal",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "%7B%22datecreated%22%3A%222024-08-11T12%3A42%3A49.281Z%22%2C%22expiredat%22%3A%22Sun%2C%2018%20Aug%202024%2012%3A42%3A00%20GMT%22%7D"
+    },
+    {
+        "domain": ".888.com",
+        "expiry": 1723984969,
+        "httpOnly": true,
+        "name": "888Cookie",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "lang%3Dru%26OSR%3D1927680"
+    },
+    {
+        "domain": ".888.com",
+        "expiry": 1723381068,
+        "httpOnly": true,
+        "name": "888Attribution",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "1"
+    },
+    {
+        "domain": ".ilmessaggero.it",
+        "httpOnly": false,
+        "name": "wt_rla",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "927615140575951%2C2%2C1723380177463"
+    },
+    {
+        "domain": ".ilmessaggero.it",
+        "expiry": 1723381977,
+        "httpOnly": false,
+        "name": "wt_mcp_sid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1581993700"
+    },
+    {
+        "domain": ".ilmessaggero.it",
+        "httpOnly": false,
+        "name": "wt_nv_s",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1"
+    },
+    {
+        "domain": ".ilmessaggero.it",
+        "expiry": 1738932176,
+        "httpOnly": false,
+        "name": "wt_nv",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1"
+    },
+    {
+        "domain": ".samsung.com",
+        "expiry": 1723381996,
+        "httpOnly": false,
+        "name": "FPGSID",
+        "path": "/",
+        "sameSite": "Strict",
+        "secure": true,
+        "value": "1.1723380198.1723380198.G-HF4CR676P9.ekBAYe7WaejCzbSyvndo6w"
+    },
+    {
+        "domain": ".samsung.com",
+        "expiry": 1731156196,
+        "httpOnly": false,
+        "name": "FPAU",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "1.2.343947643.1723380198"
+    },
+    {
+        "domain": "www.samsung.com",
+        "expiry": 1723381995,
+        "httpOnly": false,
+        "name": "_samsungrtetSessPageSeq",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "0"
+    },
+    {
+        "domain": "www.samsung.com",
+        "expiry": 1723381995,
+        "httpOnly": false,
+        "name": "_samsungrtetSessId",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "skc8b8r"
+    },
+    {
+        "domain": "www.samsung.com",
+        "expiry": 1723381995,
+        "httpOnly": false,
+        "name": "_beu_cid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "__null__"
+    },
+    {
+        "domain": "www.samsung.com",
+        "expiry": 1723381995,
+        "httpOnly": false,
+        "name": "_beu_utm_term",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "__null__"
+    },
+    {
+        "domain": "www.samsung.com",
+        "expiry": 1723381995,
+        "httpOnly": false,
+        "name": "_beu_utm_medium",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "__null__"
+    },
+    {
+        "domain": ".samsung.com",
+        "expiry": 1757940196,
+        "httpOnly": false,
+        "name": "uxs_uid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "47abf530-57df-11ef-a031-d360399cd9c9"
+    },
+    {
+        "domain": ".samsung.com",
+        "expiry": 1723381995,
+        "httpOnly": false,
+        "name": "_ba_parent_seq",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "0"
+    },
+    {
+        "domain": "www.samsung.com",
+        "expiry": 1723381995,
+        "httpOnly": false,
+        "name": "_beu_utm_content",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "__null__"
+    },
+    {
+        "domain": "www.samsung.com",
+        "expiry": 1723381995,
+        "httpOnly": false,
+        "name": "_ba_page_seq",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "0"
+    },
+    {
+        "domain": ".samsung.com",
+        "expiry": 1754916195,
+        "httpOnly": false,
+        "name": "_ba_exist",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "true"
+    },
+    {
+        "domain": ".samsung.com",
+        "expiry": 1723381995,
+        "httpOnly": false,
+        "name": "_ba_last_url",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "https%3A%2F%2Fwww.samsung.com%2Fru%2F"
+    },
+    {
+        "domain": ".samsung.com",
+        "expiry": 1723452194,
+        "httpOnly": false,
+        "name": "_ym_isad",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "2"
+    },
+    {
+        "domain": ".samsung.com",
+        "expiry": 1723381995,
+        "httpOnly": false,
+        "name": "_ba_initial_refer",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": ""
+    },
+    {
+        "domain": ".samsung.com",
+        "expiry": 1754916194,
+        "httpOnly": false,
+        "name": "_ym_d",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "1723380195"
+    },
+    {
+        "domain": ".samsung.com",
+        "expiry": 1723381993,
+        "httpOnly": false,
+        "name": "mboxEdgeCluster",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "35"
+    },
+    {
+        "domain": ".samsung.com",
+        "expiry": 1723381994,
+        "httpOnly": false,
+        "name": "kndctr_05263F7A5A268F7D0A495CED_AdobeOrg_cluster",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "or2"
+    },
+    {
+        "domain": ".samsung.com",
+        "expiry": 1757508192,
+        "httpOnly": false,
+        "name": "kndctr_05263F7A5A268F7D0A495CED_AdobeOrg_identity",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "CiY4Nzk0Njg0MTUxOTczNjk5NTY5NDI0MDU5MDg2MjY2MDg4MjE1NFIQCKG124uUMhgBKgNPUjIwAqABprXbi5QysAEA8AGhtduLlDI%3D"
+    },
+    {
+        "domain": ".samsung.com",
+        "expiry": 1723984992,
+        "httpOnly": false,
+        "name": "RT",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "\"z=1&dm=samsung.com&si=9ac41cee-9ed6-4625-ada4-5f7cc332dfd4&ss=lzpk2bq2&sl=1&tt=7jp&bcn=%2F%2F0217991e.akstat.io%2F&ld=7ju\""
+    },
+    {
+        "domain": ".samsung.com",
+        "expiry": 1757940193,
+        "httpOnly": false,
+        "name": "mbox",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "session%2387946841519736995694240590862660882154%2DDFRrlJ%231723382055"
+    },
+    {
+        "domain": "www.samsung.com",
+        "expiry": 1723381995,
+        "httpOnly": false,
+        "name": "_beu_utm_campaign",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "__null__"
+    },
+    {
+        "domain": ".samsung.com",
+        "expiry": 1757940185,
+        "httpOnly": true,
+        "name": "s_fpid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "0286a8d4-89ab-4bc5-bdff-45b60e7a268a"
+    },
+    {
+        "domain": ".samsung.com",
+        "expiry": 1757940192,
+        "httpOnly": false,
+        "name": "_ga",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "GA1.1.1597190359.1723380193"
+    },
+    {
+        "domain": "www.samsung.com",
+        "httpOnly": false,
+        "name": "s_ppv",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "ru%253Ahome%2C16%2C16%2C699%2C1036%2C699%2C1536%2C864%2C1.25%2CP"
+    },
+    {
+        "domain": "www.samsung.com",
+        "httpOnly": false,
+        "name": "s_ppvl",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "ru%253Ahome%2C16%2C16%2C699%2C1036%2C699%2C1536%2C864%2C1.25%2CP"
+    },
+    {
+        "domain": "www.samsung.com",
+        "expiry": 1723381989,
+        "httpOnly": false,
+        "name": "s_pv",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "ru%3Ahome"
+    },
+    {
+        "domain": ".samsung.com",
+        "expiry": 1757076192,
+        "httpOnly": false,
+        "name": "AMCV_05263F7A5A268F7D0A495CED%40AdobeOrg",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "MCMID|87946841519736995694240590862660882154"
+    },
+    {
+        "domain": ".samsung.com",
+        "expiry": 1723383785,
+        "httpOnly": true,
+        "name": "AKA_A2",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "A"
+    },
+    {
+        "domain": ".samsung.com",
+        "expiry": 1757940192,
+        "httpOnly": false,
+        "name": "_ga_HF4CR676P9",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "GS1.1.1723380192.1.0.1723380192.0.0.1905524137"
+    },
+    {
+        "domain": ".samsung.com",
+        "expiry": 1723466588,
+        "httpOnly": false,
+        "name": "cookie_country",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "ru"
+    },
+    {
+        "domain": "www.samsung.com",
+        "expiry": 1723381995,
+        "httpOnly": false,
+        "name": "_beu_utm_source",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "__null__"
+    },
+    {
+        "domain": ".samsung.com",
+        "httpOnly": false,
+        "name": "directCallFlAA",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "undefined"
+    },
+    {
+        "domain": ".samsung.com",
+        "httpOnly": false,
+        "name": "device_type",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "pc"
+    },
+    {
+        "domain": ".samsung.com",
+        "expiry": 1723381995,
+        "httpOnly": false,
+        "name": "_ba_page_ct",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "2024-08-11T12%3A43%3A15.543Z"
+    },
+    {
+        "domain": ".samsung.com",
+        "httpOnly": false,
+        "name": "country_codes",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "ru"
+    },
+    {
+        "domain": ".samsung.com",
+        "expiry": 1723381995,
+        "httpOnly": false,
+        "name": "_ba_rand",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "65"
+    },
+    {
+        "domain": ".samsung.com",
+        "expiry": 1754916194,
+        "httpOnly": false,
+        "name": "_ym_uid",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "172338019598262590"
+    },
+    {
+        "domain": ".samsung.com",
+        "expiry": 1723381995,
+        "httpOnly": false,
+        "name": "_ba_ssid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "AReGOOXF"
+    },
+    {
+        "domain": ".samsung.com",
+        "expiry": 1723466587,
+        "httpOnly": false,
+        "name": "__COM_SPEED",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "L"
+    },
+    {
+        "domain": "www.samsung.com",
+        "expiry": 1723381995,
+        "httpOnly": false,
+        "name": "_ba_initial_refer",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": ""
+    },
+    {
+        "domain": ".samsung.com",
+        "httpOnly": false,
+        "name": "country_region",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "CA-ON"
+    },
+    {
+        "domain": ".ansa.it",
+        "expiry": 1757940203,
+        "httpOnly": false,
+        "name": "xbc",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "%7Bkpex%7DP7fAQ8yKZjMhFB1aAJHg4ojJycUoZomPRe6_YarRrQCOfbfyAgA-QUOwuwerGVElJMq2oQdIgjOCmK4d9WhisQ"
+    },
+    {
+        "domain": ".ansa.it",
+        "expiry": 1757940203,
+        "httpOnly": false,
+        "name": "__tbc",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "%7Bkpex%7DA-VWUjES4mNPKVQNmSlEDRXkVJFV_zGVE1xwqFO69t06NOwzOrFyXTc722ua1wBP"
+    },
+    {
+        "domain": ".ansa.it",
+        "expiry": 1725972203,
+        "httpOnly": false,
+        "name": "__pid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": ".ansa.it"
+    },
+    {
+        "domain": ".ansa.it",
+        "expiry": 1757508202,
+        "httpOnly": false,
+        "name": "_pctx",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXQF8g"
+    },
+    {
+        "domain": ".ansa.it",
+        "expiry": 1757508202,
+        "httpOnly": false,
+        "name": "_pprv",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "eyJjb25zZW50Ijp7IjAiOnsibW9kZSI6Im9wdC1vdXQifSwiMSI6eyJtb2RlIjoib3B0LWluIn0sIjIiOnsibW9kZSI6Im9wdC1pbiJ9LCIzIjp7Im1vZGUiOiJvcHQtaW4ifSwiNCI6eyJtb2RlIjoib3B0LW91dCJ9LCI1Ijp7Im1vZGUiOiJvcHQtaW4ifSwiNiI6eyJtb2RlIjoib3B0LWluIn0sIjciOnsibW9kZSI6Im9wdC1vdXQifX0sInB1cnBvc2VzIjpudWxsfQ%3D%3D"
+    },
+    {
+        "domain": "edition.cnn.com",
+        "expiry": 1723381231,
+        "httpOnly": false,
+        "name": "_dd_s",
+        "path": "/",
+        "sameSite": "Strict",
+        "secure": false,
+        "value": "logs=1&id=fe0efe1b-edea-4d94-b85d-0a843e80e012&created=1723380243632&expire=1723381228074"
+    },
+    {
+        "domain": ".cnn.com",
+        "expiry": 1754916328,
+        "httpOnly": false,
+        "name": "_sp_id.f5fb",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "2e45c397-dfc5-4d0d-bb61-f99616ceba09.1723380247.1.1723380328.1723380247.d5ce11ab-c62a-4e61-8cf2-b8bf76a8ad2b"
+    },
+    {
+        "domain": ".cnn.com",
+        "expiry": 1754916328,
+        "httpOnly": false,
+        "name": "bea4",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "umv2f2d_7403565392775352667"
+    },
+    {
+        "domain": ".cnn.com",
+        "expiry": 1754916328,
+        "httpOnly": false,
+        "name": "goiz",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "a9a291c481604eeb8456c99e08978403"
+    },
+    {
+        "domain": ".cnn.com",
+        "expiry": 1754916328,
+        "httpOnly": false,
+        "name": "ifyr",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "LZPJTL9O-1E-L2UQ"
+    },
+    {
+        "domain": ".cnn.com",
+        "expiry": 1754916328,
+        "httpOnly": false,
+        "name": "zwmc",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "4351482592827871834"
+    },
+    {
+        "domain": "edition.cnn.com",
+        "expiry": 1754916327,
+        "httpOnly": false,
+        "name": "bea4r",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "66b8b26878e3c10a3f89560018d04ef8"
+    },
+    {
+        "domain": ".cnn.com",
+        "expiry": 1723473927,
+        "httpOnly": false,
+        "name": "umto",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "1"
+    },
+    {
+        "domain": ".cnn.com",
+        "expiry": 1738932282,
+        "httpOnly": false,
+        "name": "__eoi",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "ID=16de027366732141:T=1723380282:RT=1723380282:S=AA-AfjYEQ5ccRkmcOybw_B4qdtRh"
+    },
+    {
+        "domain": ".cnn.com",
+        "expiry": 1757076282,
+        "httpOnly": false,
+        "name": "__gpi",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "UID=00000ec973ddf03a:T=1723380282:RT=1723380282:S=ALNI_MZNa9E-XWCZO-Y8nxMKAeoifYzmRw"
+    },
+    {
+        "domain": ".cnn.com",
+        "expiry": 1757076282,
+        "httpOnly": false,
+        "name": "__gads",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "ID=15c73a62f3225be5:T=1723380282:RT=1723380282:S=ALNI_MZcdWIqx7HG0gPhi5TnOfBUz5p--Q"
+    },
+    {
+        "domain": ".cnn.com",
+        "expiry": 1754916250,
+        "httpOnly": false,
+        "name": "OptanonConsent",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "isGpcEnabled=0&datestamp=Sun+Aug+11+2024+15%3A44%3A10+GMT%2B0300+(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2C+%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D0%BE%D0%B5+%D0%B2%D1%80%D0%B5%D0%BC%D1%8F)&version=202407.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fedition.cnn.com%2F&groups=BG2362%3A1%2Creq%3A1%2Ctdc%3A1%2Cven%3A1%2Cdid%3A1%2Cpcp%3A1%2Cpcd%3A1%2Cmcp%3A1%2Cdsa%3A1%2Cdlk%3A1%2Cmap%3A1%2Ccad%3A1%2Cpdd%3A1%2Cmra%3A1%2Cpad%3A1%2Cpap%3A1%2Ccos%3A1%2Csec%3A1%2Cdsh%3A1%2Cdsl%3A1%2Ctc%3A1%2Cfc%3A1%2Cpzv%3A1%2Cpf%3A1%2Cbb%3A1%2Cadv%3A1%2Cai%3A1"
+    },
+    {
+        "domain": ".cnn.com",
+        "expiry": 1723383850,
+        "httpOnly": false,
+        "name": "_bts",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "a2616775-14de-473b-a2b4-238b4cdf70e9"
+    },
+    {
+        "domain": ".cnn.com",
+        "httpOnly": false,
+        "name": "s_cc",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "true"
+    },
+    {
+        "domain": ".cnn.com",
+        "expiry": 1757508250,
+        "httpOnly": false,
+        "name": "_v__chartbeat3",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "DvrG-7DmY9n-HhAMs"
+    },
+    {
+        "domain": ".cnn.com",
+        "expiry": 1757940328,
+        "httpOnly": false,
+        "name": "s_ecid",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "MCMID%7C23766294649936495031284682546445547578"
+    },
+    {
+        "domain": "edition.cnn.com",
+        "expiry": 1757076249,
+        "httpOnly": false,
+        "name": "_scor_uid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "36d7d8f1e25c4e11a7cdb86a50b10db0"
+    },
+    {
+        "domain": "edition.cnn.com",
+        "expiry": 1723473849,
+        "httpOnly": false,
+        "name": "ugs",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1"
+    },
+    {
+        "domain": "edition.cnn.com",
+        "expiry": 1754916249,
+        "httpOnly": false,
+        "name": "ug",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "66b8b21b07d4270a3f89560018d04ef8"
+    },
+    {
+        "domain": ".cnn.com",
+        "httpOnly": false,
+        "name": "AMCVS_7FF852E2556756057F000101%40AdobeOrg",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1"
+    },
+    {
+        "domain": ".cnn.com",
+        "expiry": 1754916251,
+        "httpOnly": false,
+        "name": "_bti",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "%7B%22app_id%22%3A%22cnn%22%2C%22bsin%22%3A%22Xa3k%2F4vYstYMnBzNVn3Ego%2BnobNReOGxDsGe7BK6iCgCw0yLayTWgdb03MjYLxe5pKFgIRi5DM3%2FMrImDvDZAA%3D%3D%22%2C%22is_identified%22%3Afalse%7D"
+    },
+    {
+        "domain": ".cnn.com",
+        "httpOnly": false,
+        "name": "FastAB_Zion",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "5.1"
+    },
+    {
+        "domain": "edition.cnn.com",
+        "expiry": 1757940248,
+        "httpOnly": false,
+        "name": "nexus-web-application-identifier",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "b4d066b4-4a41-4f6b-b0bd-81f86e4d2749|1723380248148"
+    },
+    {
+        "domain": ".cnn.com",
+        "expiry": 1723382128,
+        "httpOnly": false,
+        "name": "_sp_ses.f5fb",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "*"
+    },
+    {
+        "domain": ".cnn.com",
+        "expiry": 1738932243,
+        "httpOnly": false,
+        "name": "optimizelyEndUserId",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "oeu1723380243070r0.8957740370875251"
+    },
+    {
+        "domain": ".cnn.com",
+        "expiry": 1757249050,
+        "httpOnly": false,
+        "name": "__qca",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "P0-1487406911-1723380249799"
+    },
+    {
+        "domain": ".cnn.com",
+        "expiry": 1723382050,
+        "httpOnly": false,
+        "name": "_cb_svref",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "external"
+    },
+    {
+        "domain": ".edition.cnn.com",
+        "expiry": 1723382051,
+        "httpOnly": false,
+        "name": "bounceClientVisit7291v",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "N4IgNgDiBcIBYBcEQM4FIDMBBNAmAYnvgKYAmAlguQPYB2AdAMa0OPUC2RIANCAE4wQPEORQB9AObUxKYihQ1aMAGYBDMLN6jJEGXIV0V6zSFkSYAbQC6AXyA"
+    },
+    {
+        "domain": ".cnn.com",
+        "expiry": 1723382045,
+        "httpOnly": false,
+        "name": "cnprevpage_pn",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "%2Fhomepage"
+    },
+    {
+        "domain": ".cnn.com",
+        "httpOnly": false,
+        "name": "geoData",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "anatysh|TA|422643|RU|EU|300|broadband|55.470|50.160|643007"
+    },
+    {
+        "domain": ".cnn.com",
+        "expiry": 1757940250,
+        "httpOnly": false,
+        "name": "AMCV_7FF852E2556756057F000101%40AdobeOrg",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "179643557%7CMCIDTS%7C19947%7CMCMID%7C23766294649936495031284682546445547578%7CMCAAMLH-1723985049%7C6%7CMCAAMB-1723985049%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1723387450s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C5.5.0"
+    },
+    {
+        "domain": ".cnn.com",
+        "httpOnly": false,
+        "name": "SecGpc",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "0"
+    },
+    {
+        "domain": ".cnn.com",
+        "expiry": 1754916318,
+        "httpOnly": false,
+        "name": "FCNEC",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "%5B%5B%22AKsRol8h9gTmSX-rqAAMS_93Zx7tvWMjWd7AKZo8aLNdm270tu37sAPPHXHgV0kAD6tE8-gwriW8dmnuxZjr4OhWdtcIlbwov5kD3M7ad0eMY_a2tw7d2HRhkU7LbsgFIM9SAp7cr7sppt_0rcOV8chWiLf-66uOKg%3D%3D%22%5D%5D"
+    },
+    {
+        "domain": ".cnn.com",
+        "httpOnly": false,
+        "name": "countryCode",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "RU"
+    },
+    {
+        "domain": ".cnn.com",
+        "httpOnly": false,
+        "name": "stateCode",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "TA"
+    },
+    {
+        "domain": ".cnn.com",
+        "expiry": 1723473844,
+        "httpOnly": false,
+        "name": "sato",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1"
+    },
+    {
+        "domain": ".cnn.com",
+        "expiry": 1754916242,
+        "httpOnly": false,
+        "name": "FastAB",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "0=1690,1=6195,2=2214,3=0924,4=9846,5=3507,6=8716,7=3955,8=7727,9=2104,10=5589,11=5924,12=1529,13=4097,14=1048,15=0257,16=2431,17=1737,18=1976,19=7340"
+    },
+    {
+        "domain": ".cnn.com",
+        "expiry": 1757508245,
+        "httpOnly": false,
+        "name": "_chartbeat2",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": ".1723380245210.1723380245210.1.CH8zXZkJGFCCPeRlRHBox1DOimns.1"
+    },
+    {
+        "domain": ".cnn.com",
+        "expiry": 1757508245,
+        "httpOnly": false,
+        "name": "_cb",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "CFiME_Bs5JU9Dx-BQ1"
+    },
+    {
+        "domain": ".cnn.com",
+        "httpOnly": false,
+        "name": "usprivacy",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "1---"
+    }
+]
